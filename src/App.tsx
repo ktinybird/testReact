@@ -3,7 +3,6 @@ import './App.css';
 
 function App() {
   const a:number = 1;
-  console.log(">>>>>>>>>>>>", a)
   return (
     <div className="App">
       <header className="App-header">
